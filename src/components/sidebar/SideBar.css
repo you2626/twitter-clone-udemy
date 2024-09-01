@@ -1,5 +1,5 @@
 .SideBar{
-    border-right-width:1px soild var(--twitter-backbround);
+    border-right:1px soild var(--twitter-backbround);
     flex:0.2;
     min-width:250px;
     margin-top:20px;
