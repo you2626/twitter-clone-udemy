@@ -1,8 +1,11 @@
 import './App.css';
+import SideBar from './components/sidebar/SideBar';
 
 function App() {
   return (
-    <div className="App">こんにちは</div>
+    <div className="App">
+      <SideBar />
+    </div>
   );
 }
 
