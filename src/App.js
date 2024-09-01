@@ -1,7 +1,7 @@
-import { Widgets } from '@mui/icons-material';
 import './App.css';
 import SideBar from './components/sidebar/SideBar';
 import Timeline from "./components/timeline/Timeline";
+import Widgets from './components/widget/Widgets';
 
 
 function App() {
