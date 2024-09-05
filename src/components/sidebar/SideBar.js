@@ -22,7 +22,7 @@ function SideBar() {
         <XIcon />
 
         {/* {SidebarOption} */}
-        <SideBarOption text="ホーム" Icon={HomeIcon}/>
+        <SideBarOption text="ホーム" Icon={HomeIcon} active/>
         <SideBarOption text="話題を検索" Icon={SearchIcon}/>
         <SideBarOption text="通知" Icon={NotificationsNoneIcon}/>
         <SideBarOption text="メッセージ" Icon={MailOutlineIcon }/>
