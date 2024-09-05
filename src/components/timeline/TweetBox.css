@@ -1,10 +1,10 @@
 .tweetBox{
     padding-bottom:10px;
-    border-bottom:8px solid var(--tweet-background);
+    border-bottom:8px solid var(--twitter-background);
     padding-right:10px;
 }
 
-.tweetBox{
+.tweetBox > form{
     display:flex;
     flex-direction:column ;
 }
